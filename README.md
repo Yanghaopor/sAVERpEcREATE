@@ -24,7 +24,19 @@
 
 ### 自带硬盘检测，会检测是否为移动硬盘，如果不是将会停止程序，保护手残党 
 
-## 更新日志
+### 兼容性
+制作的PE系统不支持纯UEFI，因为U盘无法更改为GPT格式，所以不支持纯UEFI启动选项
+注意：纯UEFI那是老爷机的玩意WinXP时代的东西，不会还有人用吧。
+
+## 更新日志0.3
+2025.4.21 13：00
+https://github.com/Yanghaopor/sAVERpEcREATE/releases/tag/untagged-ff4033f390cc19136091
+在我工作室的要求下我开发了对应的图形界面，这下更好操作了
+这个图形界面基于我自己的Saver3RB应用框架
+支持系统：windows10及以上，不支持windows10之下的系统
+注意：如win7版本，请继续使用无图形化的版本
+
+## 更新日志0.2
 2025.4.27 00:52
 
 https://github.com/Yanghaopor/sAVERpEcREATE/releases/tag/SaverPeCreate
